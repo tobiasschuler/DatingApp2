@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34729.46
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "API", "API\API.csproj", "{EAADF852-54C1-4D3A-925E-319B7CE2E2C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAADF852-54C1-4D3A-925E-319B7CE2E2C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAADF852-54C1-4D3A-925E-319B7CE2E2C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAADF852-54C1-4D3A-925E-319B7CE2E2C6}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{EAADF852-54C1-4D3A-925E-319B7CE2E2C6}.Debug|x64.Build.0 = Debug|Any CPU
+		{EAADF852-54C1-4D3A-925E-319B7CE2E2C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAADF852-54C1-4D3A-925E-319B7CE2E2C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAADF852-54C1-4D3A-925E-319B7CE2E2C6}.Release|x64.ActiveCfg = Release|x64
+		{EAADF852-54C1-4D3A-925E-319B7CE2E2C6}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CDF191CE-917F-4C6D-927C-355B4614717A}
+	EndGlobalSection
+EndGlobal
